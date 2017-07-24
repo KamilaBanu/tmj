@@ -3,8 +3,8 @@ void main()
 {
     int a,c=0;
     printf("enter the number %d",a);
-    scanf("%d",&n);
-    while(n>0)
+    scanf("%d",&a);
+    while(a>0)
     {
         a=a/10;
         c++;
